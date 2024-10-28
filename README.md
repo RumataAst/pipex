@@ -2,13 +2,10 @@ Pipex is a Unix-based project at 42 focused on building a program that replicate
 
 Through this project, I learned how to:
 
-  -Manage multiple processes using fork()
+- Manage multiple processes using fork()
+- Redirect input and output using file descriptors
+- Connect processes with pipe() to pass data between commands
   
-  -Redirect input and output using file descriptors
-  
-  -Connect processes with pipe() to pass data between commands
-  
-
 
 Program will be executed as follows:
 
